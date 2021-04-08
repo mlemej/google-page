@@ -1,0 +1,23 @@
+.logogoogle {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    margin-top: auto;
+}
+.cialko {
+    display:flex;
+    flex-direction: column;
+    flex: auto;
+    align-items: center;
+    
+}
+.info {
+    text-align: center;
+    font-size: small;
+}
+.futer {
+    background-color: rgb(161, 148, 148);
+    max-height: 150px;
+    max-width: 100vw;
+    margin-top: 20%;
+}
